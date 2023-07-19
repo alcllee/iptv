@@ -1,142 +1,142 @@
 #EXTM3U
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good1" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-1综合台
+#EXTINF:-1 group-title="GoodTV" tvg-id="good1" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-1综合台
 http://live.streamingfast.net/osmflivech1.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good2" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-2真理台
+#EXTINF:-1 group-title="GoodTV" tvg-id="good2" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-2真理台
 http://live.streamingfast.net/osmflivech2.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good3" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-3真情部落格
+#EXTINF:-1 group-title="GoodTV" tvg-id="good3" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-3真情部落格
 http://live.streamingfast.net/osmflivech3.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good5" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-5共享观点
+#EXTINF:-1 group-title="GoodTV" tvg-id="good5" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-5共享观点
 http://live.streamingfast.net/osmflivech5.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good6" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-6亲近神诗歌音乐
+#EXTINF:-1 group-title="GoodTV" tvg-id="good6" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-6亲近神诗歌音乐
 http://live.streamingfast.net/osmflivech6.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good7" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-7祷告大军
+#EXTINF:-1 group-title="GoodTV" tvg-id="good7" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-7祷告大军
 http://live.streamingfast.net/osmflivech7.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good8" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-8幸福学堂
+#EXTINF:-1 group-title="GoodTV" tvg-id="good8" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-8幸福学堂
 http://live.streamingfast.net/osmflivech8.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good9" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-9爱+好医生（精华版）
+#EXTINF:-1 group-title="GoodTV" tvg-id="good9" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-9爱+好医生（精华版）
 http://live.streamingfast.net/osmflivech9.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good10" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-10烤箱读书会
+#EXTINF:-1 group-title="GoodTV" tvg-id="good10" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-10烤箱读书会
 http://live.streamingfast.net/osmflivech10.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good11" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-11我们EYE旅行
+#EXTINF:-1 group-title="GoodTV" tvg-id="good11" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-11我们EYE旅行
 http://live.streamingfast.net/osmflivech11.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good12" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-12孙叔唱副歌
+#EXTINF:-1 group-title="GoodTV" tvg-id="good12" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-12孙叔唱副歌
 http://live.streamingfast.net/osmflivech12.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good13" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-13健康新煮流
+#EXTINF:-1 group-title="GoodTV" tvg-id="good13" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-13健康新煮流
 http://live.streamingfast.net/osmflivech13.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good14" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-14真情部落格
+#EXTINF:-1 group-title="GoodTV" tvg-id="good14" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-14真情部落格
 http://live.streamingfast.net/osmflivech14.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good15" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-15真情之夜
+#EXTINF:-1 group-title="GoodTV" tvg-id="good15" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-15真情之夜
 http://live.streamingfast.net/osmflivech15.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good16" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-16问光明
+#EXTINF:-1 group-title="GoodTV" tvg-id="good16" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-16问光明
 http://live.streamingfast.net/osmflivech16.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good17" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-17大卫鲍森
+#EXTINF:-1 group-title="GoodTV" tvg-id="good17" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-17大卫鲍森
 http://live.streamingfast.net/osmflivech17.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good18" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-18国际议员
+#EXTINF:-1 group-title="GoodTV" tvg-id="good18" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-18国际议员
 http://live.streamingfast.net/osmflivech18.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good19" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-19共享观点
+#EXTINF:-1 group-title="GoodTV" tvg-id="good19" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-19共享观点
 http://live.streamingfast.net/osmflivech19.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good20" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-20恩典时分
+#EXTINF:-1 group-title="GoodTV" tvg-id="good20" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-20恩典时分
 http://live.streamingfast.net/osmflivech20.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good21" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-21华语议员
+#EXTINF:-1 group-title="GoodTV" tvg-id="good21" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-21华语议员
 http://live.streamingfast.net/osmflivech21.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good22" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-22职场新野
+#EXTINF:-1 group-title="GoodTV" tvg-id="good22" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-22职场新野
 http://live.streamingfast.net/osmflivech22.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good23" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-23空中主日学（生活）
+#EXTINF:-1 group-title="GoodTV" tvg-id="good23" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-23空中主日学（生活）
 http://live.streamingfast.net/osmflivech23.m3u8
  
-#EXTINF:0 group-title="GoodTV" tvg-id="good24" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-24刘三讲古
+#EXTINF:-1 group-title="GoodTV" tvg-id="good24" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-24刘三讲古
 http://live.streamingfast.net/osmflivech24.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good25" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-25福气人生
+#EXTINF:-1 group-title="GoodTV" tvg-id="good25" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-25福气人生
 http://live.streamingfast.net/osmflivech25.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good26" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-26空中主日学（查经）
+#EXTINF:-1 group-title="GoodTV" tvg-id="good26" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-26空中主日学（查经）
 http://live.streamingfast.net/osmflivech26.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good27" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-27空中圣经学院
+#EXTINF:-1 group-title="GoodTV" tvg-id="good27" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-27空中圣经学院
 http://live.streamingfast.net/osmflivech27.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good28" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-28诗歌精选
+#EXTINF:-1 group-title="GoodTV" tvg-id="good28" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-28诗歌精选
 http://live.streamingfast.net/osmflivech28.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good29" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-29经典音乐河
+#EXTINF:-1 group-title="GoodTV" tvg-id="good29" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-29经典音乐河
 http://live.streamingfast.net/osmflivech29.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good30" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-30天堂敬拜
+#EXTINF:-1 group-title="GoodTV" tvg-id="good30" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-30天堂敬拜
 http://live.streamingfast.net/osmflivech30.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good31" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-31福音布道音乐会
+#EXTINF:-1 group-title="GoodTV" tvg-id="good31" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-31福音布道音乐会
 http://live.streamingfast.net/osmflivech31.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good32" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-32祷告与转化
+#EXTINF:-1 group-title="GoodTV" tvg-id="good32" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-32祷告与转化
 http://live.streamingfast.net/osmflivech32.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good33" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-33研经培灵
+#EXTINF:-1 group-title="GoodTV" tvg-id="good33" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-33研经培灵
 http://live.streamingfast.net/osmflivech33.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good34" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-34天国文化.天父的心
+#EXTINF:-1 group-title="GoodTV" tvg-id="good34" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-34天国文化.天父的心
 http://live.streamingfast.net/osmflivech34.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good35" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-35天国文化.天父的心
+#EXTINF:-1 group-title="GoodTV" tvg-id="good35" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-35天国文化.天父的心
 http://live.streamingfast.net/osmflivech35.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good36" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-36医治释放
+#EXTINF:-1 group-title="GoodTV" tvg-id="good36" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-36医治释放
 http://live.streamingfast.net/osmflivech36.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good37" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-37以色列专辑
+#EXTINF:-1 group-title="GoodTV" tvg-id="good37" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-37以色列专辑
 http://live.streamingfast.net/osmflivech37.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good38" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-38末世信息
+#EXTINF:-1 group-title="GoodTV" tvg-id="good38" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-38末世信息
 http://live.streamingfast.net/osmflivech38.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good39" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-39全家妇主有良方
+#EXTINF:-1 group-title="GoodTV" tvg-id="good39" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-39全家妇主有良方
 http://live.streamingfast.net/osmflivech39.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good40" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-40家庭8点档转转发现爱
+#EXTINF:-1 group-title="GoodTV" tvg-id="good40" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-40家庭8点档转转发现爱
 http://live.streamingfast.net/osmflivech40.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good41" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-41幸福学堂
+#EXTINF:-1 group-title="GoodTV" tvg-id="good41" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-41幸福学堂
 http://live.streamingfast.net/osmflivech41.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good42" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-42爱+好医生
+#EXTINF:-1 group-title="GoodTV" tvg-id="good42" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-42爱+好医生
 http://live.streamingfast.net/osmflivech42.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good43" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-43幸福来敲门
+#EXTINF:-1 group-title="GoodTV" tvg-id="good43" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-43幸福来敲门
 http://live.streamingfast.net/osmflivech43.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good44" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-44烤箱读书会
+#EXTINF:-1 group-title="GoodTV" tvg-id="good44" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-44烤箱读书会
 http://live.streamingfast.net/osmflivech44.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good45" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-45卡通
+#EXTINF:-1 group-title="GoodTV" tvg-id="good45" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-45卡通
 http://live.streamingfast.net/osmflivech45.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good46" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-46少年体验队
+#EXTINF:-1 group-title="GoodTV" tvg-id="good46" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-46少年体验队
 http://live.streamingfast.net/osmflivech46.m3u8
 
-#EXTINF:0 group-title="GoodTV" tvg-id="good47" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-47牧者频道
+#EXTINF:-1 group-title="GoodTV" tvg-id="good47" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-47牧者频道
 http://live.streamingfast.net/osmflivech47.m3u8
  
-#EXTINF:0 group-title="GoodTV" tvg-id="good48" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-48小小游学会
+#EXTINF:-1 group-title="GoodTV" tvg-id="good48" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-48小小游学会
 http://live.streamingfast.net/osmflivech48.m3u8
