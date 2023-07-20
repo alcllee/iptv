@@ -1,97 +1,97 @@
-#EXTM3U
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good1" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-1综合台
+#EXTM3U x-tvg-url="https://alan.com.my/iptv/goodtv.xml" refresh="1440"
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good1" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",1综合台
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good2" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-2真理台
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good2" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",2真理台
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good3" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-3真情部落格
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good3" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",3真情部落格
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good5" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-5共享观点
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good5" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",5共享观点
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch5-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good6" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-6亲近神诗歌音乐
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good6" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",6亲近神诗歌音乐
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good7" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-7祷告大军
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good7" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",7祷告大军
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch7-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good8" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-8幸福学堂
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good8" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",8幸福学堂
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch8-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good9" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-9爱+好医生（精华版）
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good9" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",9爱+好医生（精华版）
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good10" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-10烤箱读书会
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good10" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",10烤箱读书会
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch10-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good11" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-11我们EYE旅行
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good11" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",11我们EYE旅行
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good12" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-12孙叔唱副歌
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good12" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",12孙叔唱副歌
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good13" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-13健康新煮流
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good13" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",13健康新煮流
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good14" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-14真情部落格
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good14" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",14真情部落格
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good15" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-15真情之夜
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good15" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",15真情之夜
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch15-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good16" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-16问光明
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good16" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",16问光明
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch16-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good17" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-17大卫鲍森
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good17" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",17大卫鲍森
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch17-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good18" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-18国际议员
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good18" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",18国际议员
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch18-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good19" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-19共享观点
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good19" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",19共享观点
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good20" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-20恩典时分
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good20" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",20恩典时分
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch20-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good21" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-21华语议员
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good21" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",21华语议员
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch21-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good22" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-22职场新野
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good22" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",22职场新野
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch22-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good23" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-23空中主日学（生活）
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good23" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",23空中主日学（生活）
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch23-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good24" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-24刘三讲古
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good24" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",24刘三讲古
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch24-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good25" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-25福气人生
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good25" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",25福气人生
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch25-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good26" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-26空中主日学（查经）
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good26" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",26空中主日学（查经）
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch26-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good27" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-27空中圣经学院
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good27" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",27空中圣经学院
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch27-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good28" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-28诗歌精选
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good28" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",28诗歌精选
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch28-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good29" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-29经典音乐河
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good29" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",29经典音乐河
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch29-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good30" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-30天堂敬拜
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good30" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",30天堂敬拜
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good31" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-31福音布道音乐会
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good31" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",31福音布道音乐会
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch31-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good32" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-32祷告与转化
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good32" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",32祷告与转化
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch32-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good33" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-33研经培灵
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good33" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",33研经培灵
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch33-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good34" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-34天国文化.天父的心
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good34" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",34天国文化.天父的心
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch34-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good35" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-35天国文化.天父的心
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good35" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",35天国文化.天父的心
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch35-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good36" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-36医治释放
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good36" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",36医治释放
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch36-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good37" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-37以色列专辑
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good37" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",37以色列专辑
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch37-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good38" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-38末世信息
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good38" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",38末世信息
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch38-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good39" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-39全家妇主有良方
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good39" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",39全家妇主有良方
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch39-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good40" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-40家庭8点档转转发现爱
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good40" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",40家庭8点档转转发现爱
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch40-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good41" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-41幸福学堂
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good41" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",41幸福学堂
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch41-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good42" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-42爱+好医生
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good42" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",42爱+好医生
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch42-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good43" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-43幸福来敲门
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good43" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",43幸福来敲门
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch43-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good44" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-44烤箱读书会
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good44" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",44烤箱读书会
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch44-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good45" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-45卡通
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good45" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",45卡通
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch45-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good46" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-46少年体验队
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good46" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",46少年体验队
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch46-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good47" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-47牧者频道
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good47" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",47牧者频道
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch47-2.m3u8
-#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good48" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",台湾GOODTV-48小小游学会
+#EXTINF:-1 group-title="GoodTV好消息" tvg-id="good48" tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.c5e0a11.png",48小小游学会
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch48-2.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV央视",CCTV-1
 https://cntv.sbs/live?auth=2307100804&id=cctv1
